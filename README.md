@@ -11,12 +11,12 @@
   <br/>
   <br/>
   <!-- Replace YOUR_USERNAME/YOUR_REPO with your actual GitHub repo path -->
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/releases"><strong>Download the App »</strong></a>
+  <a href="https://github.com/VibeDailyCo/WordSprint/releases"><strong>Download the App »</strong></a>
   <br/>
   <br/>
   <a href="#-key-features">View Features</a>
   ·
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/issues">Report a Bug</a>
+  <a href="https://github.com/VibeDailyCo/WordSprint/issues">Report a Bug</a>
 </p>
 
 ---
