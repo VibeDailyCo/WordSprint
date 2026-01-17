@@ -79,3 +79,6 @@ Ready to test your skills and analyze your writing? Download the latest version 
 **[➡️ Get the latest APK from GitHub Releases](https://github.com/VibeDailyCo/WordSprint/releases)**
 
 We hope you enjoy the challenge! If you have any feedback or bug reports, please file them under the [**Issues**](https://github.com/VibeDailyCo/WordSprint/issues) tab.
+
+
+*© 2026 VibeDailyCo. All Rights Reserved. This project is for demonstration purposes only. You may not use, modify, or distribute this code without explicit permission.*
